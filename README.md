@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on SAP on Azure and automation
+- 🌱 I’m currently learning Ansible and Teraform
+
 <!--
 **Scottyjuk/scottyjuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
